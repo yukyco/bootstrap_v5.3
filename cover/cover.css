@@ -48,3 +48,9 @@ body {
   color: #fff;
   border-bottom-color: #fff;
 }
+
+ .px-3 {
+      padding-top: 50px;
+      padding-right: 1rem!important;
+      padding-left: 1rem!important
+}
